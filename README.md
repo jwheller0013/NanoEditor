@@ -80,4 +80,4 @@ Verify that the changes were saved by typing `cat simple.md` in the terminal.
 
 You have now learned how to use `nano` to create and edit text files. (Just the very basics)
 
-See Hello.java with `nano` in the next file `HelloJava.md`.
+See Hello.java with `nano` in the next file [HelloJava.md](HelloJava.md).
