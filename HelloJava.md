@@ -1,5 +1,22 @@
 # Hello Java using NanoEditor
 
+Open the terminal and type `nano Yowza.jsh`.
+
+TYPE in the following text:
+
+```java
+System.out.println("Yowza!");
+int i = 42;
+System.out.println(i);
+double d = 2.71828;
+System.out.println(d);
+String s = "ZipCode Rocks!";
+```
+
+Save the file.
+Exit the editor
+
+
 Open the terminal and type `nano Hello.java`.
 
 TYPE in the following text:
