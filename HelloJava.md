@@ -47,7 +47,7 @@ Add the following line of code:
 System.out.println("Hello, again!");
 ```
 
-Make sure you put it inside the `main` method.
+Make sure you put it inside the `main` method, right after the `Hello, Java` line.
 Save the file. Exit the editor.
 
 Compile and run the program again.
