@@ -2,7 +2,7 @@
 
 Learn to use `nano` to edit text files.
 
-`fork` this repository and `clone` it to your local machine.
+> `fork` this repository and `clone` it to your local machine.
 
 What is a text editor?
 
